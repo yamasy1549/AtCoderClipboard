@@ -1,0 +1,13 @@
+.copyButton {
+  background-color: #005299;
+  color: #fff;
+  border: 1px solid #005299;
+  border-radius: 4px;
+  margin-left: 10px;
+
+  &:hover,
+  &:active {
+    background-color: #fff;
+    color: #005299;
+  }
+}
